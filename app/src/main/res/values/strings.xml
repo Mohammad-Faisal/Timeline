@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TimeLine</string>
+    <string name="name">Name</string>
+    <string name="time_and_date">timeanddate</string>
+    <string name="string_time_and_date" />
+    <string name="time_and_dates">Time and Date</string>
+    <string name="caption">Caption</string>
+    <string name="type_your_name_here">Type your name here</string>
+    <string name="save">save</string>
+    <string name="post">Post</string>
+    <string name="sign_out">sign_out</string>
+    <string name="hate_this">hate this!</string>
+    <string name="love_this">love this !</string>
+</resources>
